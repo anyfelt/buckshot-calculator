@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d5327696.css","mappings":"AAAA,cAAc,CACd,oBAAoB,CACpB,mBAAmB,CAEnB,gBAAoB,WAAc,CAClC,KAAO,kBAAoB","sources":["index.css"],"sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\nhtml, body, #root { height: 100%; }\nbody { @apply bg-gray-100; }\n"],"names":[],"sourceRoot":""}
